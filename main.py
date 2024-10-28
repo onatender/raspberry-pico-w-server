@@ -46,8 +46,8 @@ def check_json_data():
         print("Bir hata oluştu:", e)
 
 # Wi-Fi bilgilerinizi girin
-SSID = 'TurkTelekom_ZTKH65_2.4GHz'
-PASSWORD = 'Onat2023*'
+SSID = 'SSID_HERE'
+PASSWORD = 'PW_HERE'
 
 # Wi-Fi'ya bağlan ve durumu sürekli kontrol et
 try:
